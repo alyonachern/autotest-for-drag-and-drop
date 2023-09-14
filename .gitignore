@@ -2,6 +2,9 @@ HELP.md
 build/
 !**/src/main/**
 !**/src/test/**
+.wrapper
+gradlew
+gradlew.bat
 
 ### IntelliJ IDEA ###
 .idea
